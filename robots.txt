@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Alan adını bağladıktan sonra aşağıdaki satırı kendi alan adınızla güncelleyin:
+# Sitemap: https://alanadiniz.com/sitemap.xml
